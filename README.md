@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RTTGOD (AKA StormPug)
+- 👋 Hi, I’m @StormPug
 - 👀 I’m interested in Cybersecurity and Gaming!
 - 🌱 I’m currently learning Computer Science & Accounting at UoW  
 - 💞️ I’m looking to collaborate on any fun project :)
